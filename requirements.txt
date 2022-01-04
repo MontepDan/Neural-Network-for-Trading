@@ -1,0 +1,5 @@
+keras
+oandapyV20
+nameko
+pymongo==3.7.1
+sklearn==0.19.1
